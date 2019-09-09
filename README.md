@@ -6,6 +6,7 @@ However, the investigation into the efficiency of other different heavy-tailed p
 In this study, cuckoo search (CS) is taken as a representative method of swarm-based optimization algorithms, and the results can be generalized to other swarm-based search algorithms. In this paper, four different types of commonly used heavy-tailed distributions, including Mittag-Leffler distribution, Pareto distribution, Cauchy distribution, and Weibull distribution, are considered to enhance the searching ability of CS. Then four novel CS algorithms are proposed and experiments are carried out on 20 benchmark functions to compare their searching performances. Finally, the proposed methods are used to system identification to demonstrate the effectiveness.
 
 The details of the original algorithm can be found in 
+
 https://www.mdpi.com/2227-7390/7/9/828
 
 https://arxiv.org/abs/1905.02776
